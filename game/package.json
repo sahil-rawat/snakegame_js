@@ -1,0 +1,22 @@
+{
+  "name": "snake_game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sahil-rawat/snakegame_js.git"
+  },
+  "author": "Sahil Singh Rawat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sahil-rawat/snakegame_js/issues"
+  },
+  "homepage": "https://github.com/sahil-rawat/snakegame_js#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
